@@ -1,0 +1,43 @@
+body {
+	background-image: url("solid.jpg");
+}
+
+#greeting {
+	font-family: Ayuthaya;
+	font-size: 100px;
+	margin-left: 380px;
+	color: #BE2F33;
+}
+
+#one:hover {
+	color: white;
+}
+
+#two:hover {
+	color: white;
+}
+
+#three:hover {
+	color: white;
+}
+
+#one {
+	font-family: Ayuthaya;
+	font-size: 36px;
+	color: #BE2F33;
+	margin-left: 60px;
+}
+
+#two {
+	font-family: Ayuthaya;
+	font-size: 36px;
+	color: #BE2F33;
+	margin-left: 400px;
+}
+
+#three {
+	font-family: Ayuthaya;
+	font-size: 36px;
+	color: #BE2F33;
+	margin-left: 780px;
+}
